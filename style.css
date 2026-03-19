@@ -16,7 +16,6 @@ body {
   color: #333;
   background: #f8f8f8;
   display: flex;
-  justify-content: center;
   min-height: 100vh;
 }
 
@@ -155,8 +154,7 @@ a:hover {
 /* ===== Main Content ===== */
 .main-content {
   flex: 1;
-  max-width: 1000px;
-  padding: 40px 50px;
+  padding: 40px 60px;
   background: #fff;
 }
 
